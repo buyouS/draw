@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T12:13:36.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="wE-UIp4z8iE-aoVWTl-1" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T13:25:30.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Chp3DIl3QelnsEBoeKAk" version="17.1.2" type="github">
   <diagram id="D3HOh0rWMLDTnORlSr4f" name="Page-1">
     <mxGraphModel dx="1209" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,6 +147,9 @@
         </mxCell>
         <mxCell id="JoEdu4cHEeeirlnH0vfL-11" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;撤销到最近一次add/commit&lt;/font&gt;&lt;br&gt;restore&amp;nbsp; file&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#99004D;" vertex="1" parent="1">
           <mxGeometry x="386.5" y="340" width="227" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JoEdu4cHEeeirlnH0vfL-14" value="&lt;b&gt;rebase -i HEAD~2&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#99004D;" vertex="1" parent="1">
+          <mxGeometry x="588.5" y="700" width="129" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
