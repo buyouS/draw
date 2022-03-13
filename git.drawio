@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T09:39:44.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ZeiXoYa2yYVGsJj11nBr" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T12:13:36.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="wE-UIp4z8iE-aoVWTl-1" version="17.1.2" type="github">
   <diagram id="D3HOh0rWMLDTnORlSr4f" name="Page-1">
     <mxGraphModel dx="1209" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JoEdu4cHEeeirlnH0vfL-12" value="&lt;b style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;撤销add&lt;/b&gt;&lt;br&gt;&lt;b&gt;restore --stage file&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#99004D;" vertex="1" parent="1">
+          <mxGeometry x="374" y="747.5" width="227" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="0XizeTaC7apPKhZ1iXg1-46" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;版&lt;br&gt;本&lt;br&gt;库&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFF2CC;align=right;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="130" y="475" width="602.5" height="140" as="geometry" />
         </mxCell>
@@ -132,6 +135,18 @@
         </mxCell>
         <mxCell id="JoEdu4cHEeeirlnH0vfL-4" value="&lt;b&gt;&lt;font color=&quot;#99004d&quot;&gt;init&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JoEdu4cHEeeirlnH0vfL-5" value="&lt;b&gt;&lt;font color=&quot;#99004d&quot;&gt;commit --amend&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="580" y="670" width="137.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JoEdu4cHEeeirlnH0vfL-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fontColor=#99004D;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="350" width="12.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JoEdu4cHEeeirlnH0vfL-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fontColor=#99004D;" vertex="1" parent="1">
+          <mxGeometry x="415" y="747.5" width="12.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JoEdu4cHEeeirlnH0vfL-11" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;撤销到最近一次add/commit&lt;/font&gt;&lt;br&gt;restore&amp;nbsp; file&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#99004D;" vertex="1" parent="1">
+          <mxGeometry x="386.5" y="340" width="227" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
